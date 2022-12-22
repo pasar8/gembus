@@ -1,3 +1,3 @@
 # Laporan
 
-[https://google.com](Test)
+[Stok Keluar](https://forms.gle/1M1HwknpvZqnPKVq7)
