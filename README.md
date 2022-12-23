@@ -8,7 +8,7 @@
 
 
 
-## Salon
+## Manajemen
 
 * [Tutup Toko](https://forms.gle/pUqmA7e4JuUW7uGj6)
 * [Pembukuan](https://forms.gle/oBMBeCfDmJVdZ2hF9)
